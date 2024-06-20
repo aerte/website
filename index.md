@@ -17,9 +17,6 @@ inspiration was the great [Flow Matching paper](https://arxiv.org/abs/2210.02747
 - **Machine Learning:** AI, Diffusion, Bayesian ML
 - **Comp. Sci.:** HPC, MLOps, Python
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
 ## Notable Works
 
 
