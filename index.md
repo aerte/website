@@ -11,16 +11,22 @@ opportunities to learn and improve myself.
 At the moment, I am studying SDEs and their application in Diffusion models where my main
 inspiration was the great [Flow Matching paper](https://arxiv.org/abs/2210.02747").
 
+
+
+
 ## Research Interests
 
 - **Probabilistic Modeling:**  MCMC, Gaussian Processes, GMMs
 - **Machine Learning:** AI, Diffusion, Bayesian ML
 - **Comp. Sci.:** HPC, MLOps, Python
 
+
+
+
 ## Notable Works
 
 
-- [GraPE-Chem](https://github.com/aerte/GraPE): Graph-based Property Estimation for Chemistry, a python package on top of PyTorch-Geometric.
+- **GraPE-Chem**: Graph-based Property Estimation for Chemistry, a python package on top of PyTorch-Geometric ([github](https://github.com/aerte/GraPE), [pdf](./assets/files/GraPE-Chem-report.pdf)).
 - **Project:** "Uncertainty Estimation for Federated (Distributed) Learning".
-- **Bachelor Thesis:** "Using AI to study Bifurcation in Dynamical Systems".
+- **Bachelor Thesis:** "Using AI to study Bifurcation in Dynamical Systems" ([pdf](./assets/files/AI-for-Bifurcations.pdf)).
 
