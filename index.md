@@ -10,7 +10,7 @@ opportunities to learn and improve myself.
 
 At the moment, I am studying SDEs and their application in Diffusion models where my main
 inspiration was the great [Flow Matching paper](https://arxiv.org/abs/2210.02747"). JAX and its
-application in physics as well as numerical algorithm is also very interesting!
+application in physics as well as in numerical algorithms are also very interesting!
 
 
 
