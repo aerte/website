@@ -2,6 +2,12 @@
 layout: homepage
 ---
 
+<style>
+section ul li {
+  margin-bottom: 8px;
+}
+</style>
+
 ## About Me
 
 Recently graduated master student, aspiring PhD sudent. My focus areas are machine learning and probabilistic modeling applied in the sciences, especially in physics and chemistry.
